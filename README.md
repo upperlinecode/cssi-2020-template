@@ -1,37 +1,8 @@
-Welcome to Glitch
+CSSI 2020 Template
 =================
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
-
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
-
-Find out more [about Glitch](https://glitch.com/about).
-
-
-Your Project
-------------
-
-### ← README.md
-
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+1. Get your own copy of this repo by clicking the "use template" button. 
+2. Clone it to the development environment of your choice using the `git clone` command.
+3. Write your p5.js project code in the `script.js` file, or if you choose to write it elsewhere, be sure to link the correct script in the `index.html` file.
+4. Remember that if you want to use the "collide" library, you'll need to go to the `index.html` and uncomment the script element that connects that library. 
+5. If you want to use any other p5.js libraries, be sure to either link the hosted versions of those libraries, or download those libraries and connect them as local files. 
